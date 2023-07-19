@@ -1,7 +1,7 @@
 # LeetCode-Questions
  Top Interview Questions
 
-| Easy Questions |
+|     | Easy Questions |
 | --- | --- |
 | ✅1 | Two Sum |
 | ✅13 | Roman to Integer |
